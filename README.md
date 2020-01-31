@@ -19,4 +19,4 @@
 * 用于统计方法存在一定缺陷，可能与实际情况有很大差别。
 
 ## 效果展示
-![效果图](./readme.png)
+![](https://github.com/Dipperss/Dipperss.github.io/blob/master/readme.png)
