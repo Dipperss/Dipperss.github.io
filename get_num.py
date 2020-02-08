@@ -179,7 +179,7 @@ def paint_bar(data, latest_time):
     line2 = (
         Line()
         .add_xaxis(x_axis_t)
-        .add_yaxis(series_name='日增',y_axis=y_axis_all,yaxis_index=1,is_smooth=True,color='red')
+        .add_yaxis(series_name='日增',y_axis=y_axis_all,yaxis_index=1,is_smooth=True ,color='red')
     )
 
     # 当前患者男女比例
